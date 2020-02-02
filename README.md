@@ -22,6 +22,9 @@ and portable .NET **(UWP, WP8)**.
 
 - Precompiled as DLLs for faster builds
 
+- Strongly named assemblies for compatibility with any third-party libraries
+  depending on Newtonsoft.Json.
+
 - Full support for IL2CPP builds
 
 - Delivered via Unity Package Manager for easy updating and version switching
