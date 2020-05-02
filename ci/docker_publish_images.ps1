@@ -14,6 +14,7 @@ function Publish-DockerImage  {
     }
 }
 
+Publish-DockerImage applejag/newtonsoft.json-for-unity.package-unity-tester:v1-2020.1.0b6-linux-il2cpp
 Publish-DockerImage applejag/newtonsoft.json-for-unity.package-unity-tester:v1-2019.2.11f1
 Publish-DockerImage applejag/newtonsoft.json-for-unity.package-unity-tester:v1-2018.4.14f1
 Publish-DockerImage applejag/newtonsoft.json-for-unity.package-unity-tester:latest
